@@ -1,3 +1,3 @@
 ## Discord
-<a href="https://discord.com/users/1475970109163048974"><img src="https://lanyard.cnrad.dev/api/1475970109163048974?borderRadius=20px&idleMessage=always%20winner&animated=false&animatedDecoration=false&hideTag=true&hideDecoration=true&showDisplayName=true&bg=121212" /></a>
+<a href="https://discord.com/users/819285379982557265"><img src="https://lanyard.cnrad.dev/api/819285379982557265?borderRadius=20px&idleMessage=always%20winner&animated=false&animatedDecoration=false&hideTag=true&hideDecoration=true&showDisplayName=true&bg=121212" /></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=vanityterrorist)
